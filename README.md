@@ -1,4 +1,4 @@
-#E-commerce Website Project 
+# E-commerce Website Project 
 
 This project involves creating a fully functional e-commerce website using HTML and CSS. The site will feature a modern, responsive design to ensure a seamless user experience across various devices. Key components include:
 
